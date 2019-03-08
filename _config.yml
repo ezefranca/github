@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     forks: true
     projects:
@@ -31,10 +31,10 @@ projects:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # linkedin: your_username
+   linkedin: ezefranca
   # medium: @your_username
   # stackoverflow: your_user_id
-  # twitter: your_username
+    twitter: ezefranca
   # youtube: your_username
 
 topics:
